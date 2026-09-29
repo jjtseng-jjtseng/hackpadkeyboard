@@ -18,6 +18,9 @@ Pretty easy. Bottom case with usb c hole + top case with key, knob, and LED hole
 PCB pics attached below.
 Kicad used
 
+<img src=assets/schematic.png alt="Schematic" width="500"/>
+
+
 # Firmware:
 Python with a main.py used.
 
