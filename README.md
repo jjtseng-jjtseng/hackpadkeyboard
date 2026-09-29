@@ -49,3 +49,4 @@ Everything that is needed to make this:
 - 16x SK6812MINI-E RGB LEDs
 - 16x DSA keycaps
 - 16x 1N4148 Diodes
+<img src=assets/bom.png alt="stuffused" width="500"/>
